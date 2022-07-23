@@ -13,7 +13,7 @@ DPP-L | 43.7 | 6.8G  |  [init]() / [model]()
 DPP-M | 42.2 | 3.2G  | [init]() / [model]()
 DPP-S | 40.4 | 2.1G  |  [init]() / [model]()
 
-#### Steps
+## Steps
 1. Install and build libs
 ```
 git clone https://github.com/liyunsheng13/dpp.git
