@@ -9,7 +9,7 @@ A [pytorch](http://pytorch.org/) implementation of [DPP](https://arxiv.org/pdf/2
 Model | AP | Head FLOPS |  download
 --- |:---:|:---:|:---:
 DPP-XL | 45.0 | 15G | [init]() / [model]()
-DPP-L | 43.7 | 6.8G  |  [init]() / [model]()
+DPP-L | 43.7 | 6.8G  |  [init]() / [model](http://www.svcl.ucsd.edu/projects/dpp/assets/dpp/model_final_dpp_l.pth)
 DPP-M | 42.2 | 3.2G  | [init]() / [model]()
 DPP-S | 40.4 | 2.1G  |  [init]() / [model]()
 
