@@ -8,10 +8,10 @@ A [pytorch](http://pytorch.org/) implementation of [DPP](https://arxiv.org/pdf/2
 ## Models
 Model | AP | Head FLOPS |  download
 --- |:---:|:---:|:---:
-DPP-XL | 45.0 | 15G | [init]() / [model]()
-DPP-L | 43.7 | 6.8G  |  [init]() / [model](http://www.svcl.ucsd.edu/projects/dpp/assets/dpp/model_final_dpp_l.pth)
-DPP-M | 42.2 | 3.2G  | [init]() / [model]()
-DPP-S | 40.4 | 2.1G  |  [init]() / [model]()
+DPP-XL | 45.0 | 15G | [init](http://www.svcl.ucsd.edu/projects/dpp/assets/dpp/model_final_pro300_pretrained.pth) / [model](http://www.svcl.ucsd.edu/projects/dpp/assets/dpp/model_final_dpp_xl.pth)
+DPP-L | 43.7 | 6.8G  |  [init](http://www.svcl.ucsd.edu/projects/dpp/assets/dpp/model_final_pro300_pretrained.pth) / [model](http://www.svcl.ucsd.edu/projects/dpp/assets/dpp/model_final_dpp_l.pth)
+DPP-M | 42.2 | 3.2G  | [init](http://www.svcl.ucsd.edu/projects/dpp/assets/dpp/model_final_pro100_pretrained.pth) / [model](http://www.svcl.ucsd.edu/projects/dpp/assets/dpp/model_final_dpp_m.pth)
+DPP-S | 40.4 | 2.1G  |  [init](http://www.svcl.ucsd.edu/projects/dpp/assets/dpp/model_final_pro50_pretrained.pth) / [model](http://www.svcl.ucsd.edu/projects/dpp/assets/dpp/model_final_dpp_s.pth)
 
 ## Steps
 1. Install and build libs
