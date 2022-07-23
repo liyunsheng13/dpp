@@ -1,7 +1,7 @@
 # Should All Proposals be Treated Equally in Object Detection? (ECCV 2022)
 A [pytorch](http://pytorch.org/) implementation of [DPP](https://arxiv.org/pdf/2207.03520.pdf).
 
-#### Requirements
+## Requirements
 - Linux or macOS with Python ≥ 3.7
 - PyTorch = 1.12 and [torchvision](https://github.com/pytorch/vision/) that matches the PyTorch installation.
 
